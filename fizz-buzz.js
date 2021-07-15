@@ -13,6 +13,7 @@ const fizzBuzz = (number) => {
         return 'fizz'
     }
 
+    return number;
 }
 
 module.exports = {
